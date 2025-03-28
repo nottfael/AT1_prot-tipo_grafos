@@ -1,0 +1,6 @@
+
+
+
+ponte.txt = 4 linhas e 4 colunas
+exemplo.txt = 7 linhas e 7 colunas
+zachary.txt = 34 linhas e 34 colunas
